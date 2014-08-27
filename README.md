@@ -1,4 +1,6 @@
 bh45k4r.github.io
 =================
 
-Pages from bh45k4r
+```
+Code easy to read is hard to write...
+```
